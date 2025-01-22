@@ -1,1 +1,1 @@
-hagb/docker-easyconnect:latest
+nacos/nacos-server:latest
