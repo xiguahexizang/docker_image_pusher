@@ -1,1 +1,1 @@
-goharbor/prepare:v2.12.2
+hagb/docker-easyconnect:latest
