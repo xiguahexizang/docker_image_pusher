@@ -1,2 +1,2 @@
-xxl-job-executor:latest
-xxl-job-admin:latest
+xuxueli/xxl-job-admin:2.4.2
+robotjerry/xxl-job-executor:latest
