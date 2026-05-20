@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq-dashboard:latest
+mobtitude/vpn-pptp
