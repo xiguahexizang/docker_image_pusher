@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+hwdsl2/ipsec-vpn-server
