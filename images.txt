@@ -1,1 +1,1 @@
-hwdsl2/ipsec-vpn-server
+python:3.12-slim
