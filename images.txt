@@ -1,1 +1,1 @@
-openclaw-gateway
+ghcr.io/openclaw/openclaw:latest 
