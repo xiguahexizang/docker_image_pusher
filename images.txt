@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:latest 
+php:8.5-fpm-bookworm
